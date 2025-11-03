@@ -1,0 +1,4 @@
+# Yleistä, osassa 1 määriteltyjä ignoreja
+/*.tmp
+__pycache__/
+.pytest_cache/
